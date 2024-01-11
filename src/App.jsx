@@ -1,12 +1,9 @@
-import SignUp from "./Components/SignUp";
-
-
+import SignIn from "./Components/Sign-in";
 
 const App = () => {
-
   return (
     <>
-    <SignUp />
+      <SignIn />
     </>
   );
 };
